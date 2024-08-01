@@ -30,7 +30,7 @@
     "front-matter": "4.0.2",
     "http-status": "^1.5.0",
     "lodash": "^4.17.21",
-    "nock": "^13.1.1",
+    "nock": "^13.5.4",
     "prettier": "^2.4.1",
     "tsconfig-paths-jest": "^0.0.1",
     "type-fest": "^2.5.4",
