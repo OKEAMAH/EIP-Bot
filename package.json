@@ -24,7 +24,7 @@
     "@types/nock": "^11.1.0",
     "@types/underscore": "^1.11.4",
     "depcheck": "^1.4.2",
-    "dotenv": "^10.0.0",
+    "dotenv": "^16.4.5",
     "email-addresses": "^5.0.0",
     "faker": "^5.5.3",
     "front-matter": "4.0.2",
