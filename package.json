@@ -22,7 +22,7 @@
     "@types/faker": "^5.5.7",
     "@types/lodash": "^4.14.173",
     "@types/nock": "^11.1.0",
-    "@types/underscore": "^1.11.4",
+    "@types/underscore": "^1.11.15",
     "depcheck": "^1.4.2",
     "dotenv": "^10.0.0",
     "email-addresses": "^5.0.0",
